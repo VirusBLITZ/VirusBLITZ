@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![View Counter](https://komarev.com/ghpvc/?username=VirusBLITZ)](#)
+[![AA's github stats](https://github-readme-stats-umber.vercel.app/api?username=VirusBLITZ&show_icons=true&theme=dark)](#)\
